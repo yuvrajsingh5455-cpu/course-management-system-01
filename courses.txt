@@ -1,0 +1,2 @@
+oop,1009,4,4,3,Abdul Aziz
+DLD,1000,2,30,2,rabia
